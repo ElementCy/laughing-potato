@@ -11,7 +11,7 @@ namespace SolutionLibrary.ArraysAndStrings.Tests
     [TestClass()]
     public class URLifyTests
     {
-        public char[] Test01Result = new char[] { 'H', 'e', 'l', 'l', 'o', '%', '2', '0', 'T', 'h', 'e', 'r', 'e' };
+        public readonly char[] Test01Result = new char[] { 'H', 'e', 'l', 'l', 'o', '%', '2', '0', 'T', 'h', 'e', 'r', 'e' };
 
         [TestMethod()]
         public void RunTest01()
