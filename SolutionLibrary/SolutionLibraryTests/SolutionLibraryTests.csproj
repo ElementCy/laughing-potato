@@ -55,8 +55,12 @@
     <Compile Include="ArraysAndStrings\IsUniqueTests.cs" />
     <Compile Include="ArraysAndStrings\OneAwayTests.cs" />
     <Compile Include="ArraysAndStrings\PalindromePermutationTests.cs" />
+    <Compile Include="ArraysAndStrings\RotateMatrixTests.cs" />
     <Compile Include="ArraysAndStrings\StringCompressionTests.cs" />
+    <Compile Include="ArraysAndStrings\StringRotationTests.cs" />
     <Compile Include="ArraysAndStrings\URLifyTests.cs" />
+    <Compile Include="ArraysAndStrings\ZeroMatrixTests.cs" />
+    <Compile Include="CollectionAssertComperator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
