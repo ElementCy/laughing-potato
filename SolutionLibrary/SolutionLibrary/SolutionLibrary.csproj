@@ -51,6 +51,8 @@
     <Compile Include="ArraysAndStrings\ZeroMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TreesAndGraphs\DataStructures.cs" />
+    <Compile Include="TreesAndGraphs\ListOfDepths.cs" />
+    <Compile Include="TreesAndGraphs\MinimalTree.cs" />
     <Compile Include="TreesAndGraphs\RouteBetweenNodes.cs" />
   </ItemGroup>
   <ItemGroup />

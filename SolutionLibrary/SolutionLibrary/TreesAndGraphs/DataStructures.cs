@@ -30,4 +30,19 @@
             Children = children;
         }
     }
+
+    public class TreeNode<T>
+    {
+        public T Value;
+        public TreeNode<T> Left;
+        public TreeNode<T> Right;
+        public NodeState NodeState;
+
+        public TreeNode(T val)
+        {
+            Value = val;
+            Left = null;
+            Right = null;
+        }
+    }
 }
